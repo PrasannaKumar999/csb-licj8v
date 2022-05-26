@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prasannakumar999.github.io/csb-licj8v/static/css/main.6a4d5746.chunk.css",
+    "main.js": "https://prasannakumar999.github.io/csb-licj8v/static/js/main.765c4df3.chunk.js",
+    "main.js.map": "https://prasannakumar999.github.io/csb-licj8v/static/js/main.765c4df3.chunk.js.map",
+    "runtime-main.js": "https://prasannakumar999.github.io/csb-licj8v/static/js/runtime-main.f937f6b5.js",
+    "runtime-main.js.map": "https://prasannakumar999.github.io/csb-licj8v/static/js/runtime-main.f937f6b5.js.map",
+    "static/js/2.d83dccca.chunk.js": "https://prasannakumar999.github.io/csb-licj8v/static/js/2.d83dccca.chunk.js",
+    "static/js/2.d83dccca.chunk.js.map": "https://prasannakumar999.github.io/csb-licj8v/static/js/2.d83dccca.chunk.js.map",
+    "index.html": "https://prasannakumar999.github.io/csb-licj8v/index.html",
+    "static/css/main.6a4d5746.chunk.css.map": "https://prasannakumar999.github.io/csb-licj8v/static/css/main.6a4d5746.chunk.css.map",
+    "static/js/2.d83dccca.chunk.js.LICENSE.txt": "https://prasannakumar999.github.io/csb-licj8v/static/js/2.d83dccca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f937f6b5.js",
+    "static/js/2.d83dccca.chunk.js",
+    "static/css/main.6a4d5746.chunk.css",
+    "static/js/main.765c4df3.chunk.js"
+  ]
+}
